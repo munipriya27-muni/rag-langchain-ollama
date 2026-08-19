@@ -209,7 +209,7 @@ The main goal was to understand how an LLM can use information retrieved from an
 
 ## 👨‍💻 Author
 
-**Your Name**
+Munipriya
 
 B.Tech | Computer Science & Engineering
 Artificial Intelligence & Machine Learning
